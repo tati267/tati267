@@ -2,4 +2,4 @@
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate as a volunteer on any interesting project which will help community
-- 📫 How to reach me linkedin: https://www.linkedin.com/feed/
+- 📫 How to reach me linkedin: https://www.linkedin.com/in/tatiana-panteleeva-776a44175/
