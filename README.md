@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tati267
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate as a volunteer on any interesting project which will help community
 - 📫 How to reach me linkedin: https://www.linkedin.com/feed/
